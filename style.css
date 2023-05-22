@@ -1,20 +1,80 @@
 h1, h2, h3, h4, h5, h6, table {
 
- margin: 0;
+    margin: 0;
+   
+    padding: 0;
+   
+   }
 
- padding: 0;
+   #sfondo{
 
-}
+    background-image: url(sfondo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 
-#title{
+   }
+   
+   #title{
+   
+    position: fixed;
 
- position: fixed;
+    top: 0%;
 
- text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
 
- font-size: 350%;
- font-family: cursive;
+    margin-left: 30%;
 
- margin-top: 2%;
+    width: 29%;
 
-}
+    background-image: url(nastro.png);
+
+    text-align: left;
+
+    color: white;
+   
+    font-size: 300%;
+    font-family: cursive;
+   
+   }
+
+   #creator{
+
+    position: fixed;
+
+    top: 0%;
+
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 82%;
+
+    width: 15%;
+   
+    text-align: right;
+
+    color: white;
+   
+    font-size: 150%;
+    font-family: cursive;
+
+   }
+
+   #difficoltà{
+
+    width: 30%;
+
+    margin-top: 10%;
+    margin-left: 30%;
+   
+    text-align: left;
+   
+    font-size: 120%;
+    font-family: cursive;
+
+    border: solid red 1px;
+   
+
+   }
+   
