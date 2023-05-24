@@ -25,9 +25,9 @@ h1, h2, h3, h4, h5, h6, table {
     padding-bottom: 1%;
     padding-left: 2%;
 
-    margin-left: 30%;
+    margin-left: 25%;
 
-    width: 29%;
+    width: 35%;
 
     background-image: url(nastro.png);
 
@@ -63,7 +63,9 @@ h1, h2, h3, h4, h5, h6, table {
 
    #difficoltà{
 
-    width: 30%;
+    padding: 1% 2% 1% 2%;
+
+    width: 25%;
 
     margin-top: 10%;
     margin-left: 30%;
@@ -73,8 +75,59 @@ h1, h2, h3, h4, h5, h6, table {
     font-size: 120%;
     font-family: cursive;
 
-    border: solid red 1px;
+    border: solid rgb(255, 255, 255) 5px;
+
+    color: white;
    
+   }
+
+   h3{
+
+    color: white;
+
+    margin-top: 5%;
+    margin-left: 25%;
+
+    font-family: cursive;
+    font-size: 150%;
 
    }
+
+   h5{
+
+    color: white;
+
+    margin-left: 25%;
+    margin-top: 1%;
+
+    font-family: cursive;
+    font-size: 100%;
+
+   }
+
    
+   p{
+
+    color: white;
+
+    margin-left: 25%;
+    margin-right: 40%;
+
+    font-family: cursive;
+    font-size: 100%;
+
+   }
+
+   #pli{
+
+    margin: 0;
+
+   }
+
+   li{
+
+    color: white;
+
+    margin-left: 25%;
+
+   }
